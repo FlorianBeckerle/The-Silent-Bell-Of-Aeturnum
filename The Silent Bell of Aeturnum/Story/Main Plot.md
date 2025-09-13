@@ -61,3 +61,5 @@
 - “The townsfolk slowly resume moving, but their eyes are wet — as if they’ve just awoken from a long, painful dream they can’t remember.”
     
 - “You notice small fractures in the air itself, spiderwebs of faint light, closing one by one. Some don’t close.”
+
+- “A child runs to you, smiling brightly, calling your name… but you’ve never met them. Not in this loop.”
