@@ -1,0 +1,6 @@
+The tone of Aeternum is one of faded beauty and fragile hope. The world is dark, but not dead. Its ruins still hum with forgotten songs, its forests still breathe, and its people still live, though they’ve long stopped expecting salvation. This is a place where tragedy is common, but not total. Campfires still burn in the mist. Taverns still serve bitter ale and laughter that sounds almost real. You might share stories with strangers who disappear by morning. You might find friendship in someone who doesn’t remember their own name. There is light here.. not bright, but stubborn. Like a candle refusing to go out in the storm. The world itself feels ancient, heavy, and half-remembered. Stone bridges crumble into black rivers. Cathedrals lean like tired giants. The air smells of rain and iron. Even beauty here feels haunted — a painting of a garden that has long since turned to ash. This is dark fantasy, not despair. It’s a world that may never be saved, but it’s still worth walking through together — blade in hand, stories on your tongue, and a little warmth left to share before the next bell tolls.
+
+
+# Cities:
+[[Aeturnum]]: An ancient City, some say older than Time itself, yet never aging. Each day feels like a mirror image from the ulterior.
+

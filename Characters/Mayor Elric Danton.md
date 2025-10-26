@@ -33,3 +33,5 @@
 - His tonic is laced with powdered crystal (he’s slowly being corrupted). Hears demonic whispers
     
 - The mayor’s bloodline has always “attuned” to the bell to keep it safe.
+
+![[Mayor.jpg]]

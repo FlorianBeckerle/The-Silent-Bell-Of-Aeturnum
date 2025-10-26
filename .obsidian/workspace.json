@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0f68709a81de29a2",
+        "id": "4e0344d067757c8b",
         "type": "tabs",
         "children": [
           {
-            "id": "fd39712592158322",
+            "id": "4de883da1fd386d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Tomas Kettler.md",
+                "file": "Locations/Aeturnum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tomas Kettler"
-            }
-          },
-          {
-            "id": "50429b89d319ad93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Clock Tower.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clock Tower"
-            }
-          },
-          {
-            "id": "96eee3609cb8dd96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Story/Main Plot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Main Plot"
+              "title": "Aeturnum"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,8 +94,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/Main Plot.md",
-                "collapseAll": false,
+                "file": "Locations/Aeturnum.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -133,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Main Plot"
+              "title": "Backlinks for Aeturnum"
             }
           },
           {
@@ -142,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/Main Plot.md",
+                "file": "Characters/Banrik Alderholt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Main Plot"
+              "title": "Outgoing links from Banrik Alderholt"
             }
           },
           {
@@ -171,21 +142,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/Main Plot.md",
+                "file": "Characters/Banrik Alderholt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Main Plot"
+              "title": "Outline of Banrik Alderholt"
+            }
+          },
+          {
+            "id": "3aea2962e6dc1533",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 405.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,33 +179,41 @@
       "bases:Create new base": false
     }
   },
-  "active": "96eee3609cb8dd96",
+  "active": "4de883da1fd386d4",
   "lastOpenFiles": [
-    "Locations/Aeturnum.md",
+    "Characters/Mayor Elric Danton.md",
+    "Characters/Captain Rowan Harth.md",
+    "Characters/Banrik Alderholt.md",
+    "Characters/img/Banrik.jpg",
+    "Characters/img/Unconfirmed 293412.crdownload",
+    "Characters/img/Mayor.jpg",
+    "Characters/img/Unconfirmed 635311.crdownload",
+    "Characters/First Townsfolk.md",
+    "Characters/img/CptRowanHarth.jpg",
+    "Characters/img",
+    "Characters/New folder",
+    "Pasted image 20251026022502.png",
+    "Story/Main Plot.md",
+    "Story/Arc 1.md",
+    "Roles/Core NPCs.md",
+    "Locations/World.md",
     "Locations/Alderholt's Goods (general store).md",
-    "Locations/Clock Tower.md",
+    "Locations/Aeturnum.md",
+    "Roles/Flavor NPCs.md",
     "Characters/Tomas Kettler.md",
+    "Locations/Clock Tower.md",
     "Enemies/DemonPictures.png",
     "Enemies/Skeleton Army.png",
     "Enemies/Statblock-DemonOfAvarice.png",
     "Enemies/Statblock-DemonOfDespair.png",
-    "Story/Arc 1.md",
-    "Characters/Banrik Alderholt.md",
-    "Locations/Untitled.md",
-    "Story/Main Plot.md",
     "Enemies",
-    "Characters/Mayor Elric Danton.md",
     "Characters/Mira Fenwick - Child.md",
     "Characters/Old Bram - Cryptic NPC.md",
-    "Characters/Captain Rowan Harth.md",
-    "Characters/First Townsfolk.md",
     "Story",
     "Locations/City Hall.md",
     "Locations/The Gilded Lantern.md",
     "Locations/Town Square.md",
-    "Roles/Core NPCs.md",
     "Mayor Elric Danton.md",
-    "Roles/Flavor NPCs.md",
     "Roles",
     "Characters",
     "Locations",

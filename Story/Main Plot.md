@@ -6,7 +6,7 @@
     
 - Over years, corruption has seeped out, infecting townsfolk.
     
-- When the mayor toasts, the bell’s seal shatters, releasing smoke that corrupts everyone at once.
+- When [[Mayor Elric Danton]] toasts, the bell’s seal shatters, releasing smoke that corrupts everyone at once.
     
 - The loop resets because the bell is also a temporal anchor — breaking means repeating the day.
     
@@ -15,13 +15,13 @@
 
 ### What Players Must Discover Across Loops:
 
-1. **The Bell is the Source** (via Ratty NPC + Mira’s hints).
+1. **The Bell is the Source** (via [[Old Bram - Cryptic NPC]] + [[Mira Fenwick - Child]] hints).
     
-2. **The Mayor is Unwittingly Weakened** (his tonic is corrupting him).
+2. **The [[Mayor Elric Danton]] is Unwittingly Weakened** (his tonic is corrupting him).
     
-3. **The Caravan Spread Dust** (Guard + Tomas’s ledger + first victim clues).
+3. **The Caravan Spread Dust** ([[Captain Rowan Harth]] + [[Tomas Kettler]]'s ledger + first victim clues).
     
-4. **The Ritual Runes are Warped** (Ratty NPC scrawled notes, bell tower runes).
+4. **The Ritual Runes are Warped** ([[Old Bram - Cryptic NPC]] scrawled notes, [[Clock Tower]] runes).
     
 
 ---
@@ -61,3 +61,5 @@
 - “The townsfolk slowly resume moving, but their eyes are wet — as if they’ve just awoken from a long, painful dream they can’t remember.”
     
 - “You notice small fractures in the air itself, spiderwebs of faint light, closing one by one. Some don’t close.”
+    
+- “A child runs to you, smiling brightly, calling your name… but you’ve never met them. Not in this loop.”

@@ -1,26 +1,26 @@
 ## 1. City Gates – Arrival
 
 - **Scene**: The city gates creak open. Guards nod, festival banners flutter in the breeze, children’s laughter carries from the square.
-    
+
 - **Tone**: Peaceful, hopeful, tinged with underlying unease.
-    
+
 - **Player Options**:
-    
-    - Talk to guards → learn about the festival and bell.
-        
-    - Wander towards market/tavern before the bell calls them.
-        
+	
+	- Talk to guards → learn about the festival and bell.
+	
+	- Wander towards market/tavern before the bell calls them.
+
 
 ---
 
 ## 2. The Bell Strikes – Call to the Square
 
 - **Event**: The **Harvest Bell** tolls. Citizens instinctively gather in the town square.
-    
+
 - **Mayor’s Speech**: [[Mayor Elric Danton#^MayorsFestivalSpeech]]
-    
+
 - **Atmosphere**: Cheers, music, colorful garlands, smell of bread and cider.
-    
+
 
 ---
 
@@ -35,13 +35,12 @@
     - NPCs panic, scatter.
         
 - **Clues**:
-    
-    - Blackened veins, purple crystal dust.
-        
-    - NPCs mutter “only at night…”
-        
-    - Ratty NPC whispers: _“Not again…”_
-        
+	- Blackened veins, purple crystal dust.
+	
+	- NPCs mutter “only at night…”
+	
+	- [[Old Bram - Cryptic NPC]] whispers: _“Not again…”_
+
 
 ---
 
@@ -58,7 +57,6 @@
 - **NPCs**: Each has a loop line (see below).
     
 - **Optional Puzzle**: Strange markings near bell tower. Seem decorative now, will matter later.
-    
 
 ---
 

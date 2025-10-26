@@ -1,5 +1,5 @@
-**Role:** Shopkeeper of _Alderholt’s Goods_ (general store)  
-**Appearance:** Middle-aged, balding man with ink-stained fingers from keeping ledgers, always smells faintly of tobacco and dry herbs.
+**Role:** Shopkeeper of [[Alderholt's Goods (general store)]]  
+**Appearance:** aged, balding man with ink-stained fingers from keeping ledgers, always smells faintly of tobacco and dry herbs.
 ## Gameplay Uses
 
 - Players can **buy useful supplies** in early loops (torches, rope, healing kits, etc.).
@@ -34,3 +34,4 @@
 - **Cellar Clue**: The trapped customer is mid-way through transforming. Provides evidence that the corruption spreads before the final toll.
     
 - **Personal Conflict**: Branik hides the truth to protect his family’s reputation, unintentionally letting the corruption worsen.
+![[Banrik.jpg]]
