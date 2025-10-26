@@ -61,5 +61,10 @@
 - “The townsfolk slowly resume moving, but their eyes are wet — as if they’ve just awoken from a long, painful dream they can’t remember.”
     
 - “You notice small fractures in the air itself, spiderwebs of faint light, closing one by one. Some don’t close.”
+<<<<<<< HEAD:Story/Main Plot.md
     
 - “A child runs to you, smiling brightly, calling your name… but you’ve never met them. Not in this loop.”
+=======
+
+- “A child runs to you, smiling brightly, calling your name… but you’ve never met them. Not in this loop.”
+>>>>>>> 69e65a487c4a085180ce514f0ccef735c9fc05a2:The Silent Bell of Aeturnum/Story/Main Plot.md
