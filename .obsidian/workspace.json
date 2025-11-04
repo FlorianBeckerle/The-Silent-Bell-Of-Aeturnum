@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roles/Echobound.md",
+                "file": "Characters/Mayor Elric Danton.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Echobound"
+              "title": "Mayor Elric Danton"
+            }
+          },
+          {
+            "id": "1fa03f8aaee0b62a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rules"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,16 +199,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "23e72f8e7d502233",
+  "active": "1fa03f8aaee0b62a",
   "lastOpenFiles": [
-    "World/Aeturnum/Clock Tower.md",
+    "Characters/Mayor Elric Danton.md",
+    "Rules.md",
+    "Untitled",
+    "Characters/Banrik Alderholt.md",
     "Roles/Echobound.md",
+    "World/Aeturnum/Clock Tower.md",
     "Roles/Flavor NPCs.md",
     "Roles/Core NPCs.md",
-    "Characters/Banrik Alderholt.md",
     "Characters/First Townsfolk.md",
     "Characters/Captain Rowan Harth.md",
-    "Characters/Mayor Elric Danton.md",
     "Characters/Mira Fenwick - Child.md",
     "Characters/Tomas Kettler.md",
     "Characters/Old Bram - Cryptic NPC.md",
@@ -211,7 +228,6 @@
     "Characters/Players/Jaci Lastname.md",
     "Characters/Players/Ruby + Specki.md",
     "Characters/Players/Miyu Lastname.md",
-    "Characters/Players/Rox Foolgrin.md",
     "Enemies/Statblock-DemonOfDespair.png",
     "Enemies/Statblock-DemonOfAvarice.png",
     "Enemies/Skeleton Army.png",
@@ -229,7 +245,6 @@
     "Characters/img/Unconfirmed 635311.crdownload",
     "Characters/img/CptRowanHarth.jpg",
     "Characters/img",
-    "Characters/New folder",
-    "Enemies"
+    "Characters/New folder"
   ]
 }
