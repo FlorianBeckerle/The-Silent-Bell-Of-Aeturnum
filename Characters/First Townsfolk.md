@@ -1,4 +1,4 @@
-
+#npc
 # Timetable
 **Dawn**: Looks sickly, limping near market.  
 **Speech**: Present but pale, clutching chest.  

@@ -1,3 +1,4 @@
+#npc
 - **Ancestry**: Dwarven (Stone-blooded)  
 - **Appearance**: Stocky and broad-shouldered, with auburn beard bound in metal rings. Armor polished but dented from old campaigns.  
 - **Demeanor**: Stern, disciplined, speaks like every word is an order. Rarely smiles, but softens when speaking to children.  

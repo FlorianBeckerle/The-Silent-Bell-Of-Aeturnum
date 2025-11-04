@@ -1,3 +1,4 @@
+#npc
 - **Ancestry**: Human (Stalwart)  
 - **Appearance**: Thickset man in his late fifties, thinning gray hair, deep lines around his eyes from years of worry. His mayoral chain looks polished, but his coat sleeves are frayed.  
 - **Demeanor**: Overburdened, authoritative voice that cracks under pressure. Pretends to be in control but hides a constant twitch of fear.  

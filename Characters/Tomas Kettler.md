@@ -1,3 +1,4 @@
+#npc 
 - **Ancestry**: Human (Hearth-born)  
 - **Appearance**: Round-bellied man in his forties with a balding crown and flushed cheeks. Apron always stained with ale.  
 - **Demeanor**: Jovial and gossipy, but sharp-eyed — knows who owes coin, who argued with whom, who snuck in late.  

@@ -1,3 +1,4 @@
+#npc
 - **Ancestry**: Elf (Fey-touched)  
 - **Appearance**: Ragged cloak of patchwork feathers, wiry frame, sharp nose, eyes milky but glimmering faintly. He smells of damp earth and ash.  
 - **Demeanor**: Muttering, erratic, voice jumps from whisper to sudden laughter. Always seems to know *too much*, but answers sideways.  

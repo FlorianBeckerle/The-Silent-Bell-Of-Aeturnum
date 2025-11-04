@@ -1,3 +1,4 @@
+#location
 ## Floor 1 – The Barricade
 
 **Theme:** Citizens turned husks & mercenaries corrupted by coin.

@@ -1,3 +1,4 @@
+#location
 **Location**: Cobblestone plaza with a cracked fountain in the middle.  
 - **Vibe**: Children playing tag, half-built stalls, streamers and flowers mid-preparation. A sense of *almost* celebration.  
 - **NPC Anchors**:  

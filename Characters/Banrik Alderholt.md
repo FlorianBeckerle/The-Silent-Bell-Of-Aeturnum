@@ -1,3 +1,4 @@
+#npc
 **Role:** Shopkeeper of [[Alderholt's Goods (general store)]]  
 **Appearance:** aged, balding man with ink-stained fingers from keeping ledgers, always smells faintly of tobacco and dry herbs.
 ## Gameplay Uses

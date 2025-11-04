@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9ca0c34be859db92",
+        "id": "62683ad6bfccfdfd",
         "type": "tabs",
         "children": [
           {
-            "id": "887070ddba2efbbf",
+            "id": "23e72f8e7d502233",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/First Townsfolk.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "First Townsfolk"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Between",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,10 +151,14 @@
             "id": "3aea2962e6dc1533",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Story/Main Plot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Main Plot"
             }
           }
         ],
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 818.5
+    "width": 917.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,46 +179,51 @@
       "bases:Create new base": false
     }
   },
-  "active": "887070ddba2efbbf",
+  "active": "23e72f8e7d502233",
   "lastOpenFiles": [
+    "Pasted image 20251026022502.png",
+    "Story/Main Plot.md",
+    "Story/Arc 1.md",
+    "Roles/Core NPCs.md",
+    "World/Moongaze",
+    "World/Untitled.canvas",
+    "World",
+    "[Kaelth,.md",
+    "Kaelth,.md",
+    "Strange.md",
+    "World/Aeturnum/World.md",
+    "World/Aeturnum/Town Square.md",
+    "World/Aeturnum/The Gilded Lantern.md",
+    "World/Aeturnum/Clock Tower.md",
+    "World/Aeturnum/City Hall.md",
+    "World/Aeturnum/Alderholt's Goods (general store).md",
     "Characters/Tomas Kettler.md",
     "Characters/Old Bram - Cryptic NPC.md",
     "Characters/Mira Fenwick - Child.md",
     "Characters/Mayor Elric Danton.md",
+    "Characters/First Townsfolk.md",
     "Characters/Captain Rowan Harth.md",
     "Characters/Banrik Alderholt.md",
-    "Story/Main Plot.md",
+    "Characters/Players/Rox Foolgrin.md",
     "Characters/Players/Player base.md",
+    "Characters/Gods/Rehr - the Veilborne.md",
+    "Characters/Gods/The Broken Pantheon.md",
+    "Characters/Gods/Saedrin, the Devourer of Light.md",
+    "Characters/Gods/sigils",
+    "Characters/Gods/Nheras, the Hollow Bell.md",
+    "Characters/Gods",
     "Enemies/DemonPictures.png",
-    "Locations/Aeturnum.md",
     "Characters/Players",
     "Characters/img/Banrik.jpg",
     "Characters/img/Unconfirmed 293412.crdownload",
     "Characters/img/Mayor.jpg",
     "Characters/img/Unconfirmed 635311.crdownload",
-    "Characters/First Townsfolk.md",
     "Characters/img/CptRowanHarth.jpg",
     "Characters/img",
     "Characters/New folder",
-    "Pasted image 20251026022502.png",
-    "Story/Arc 1.md",
-    "Roles/Core NPCs.md",
-    "Locations/World.md",
-    "Locations/Alderholt's Goods (general store).md",
-    "Roles/Flavor NPCs.md",
-    "Locations/Clock Tower.md",
     "Enemies/Skeleton Army.png",
     "Enemies/Statblock-DemonOfAvarice.png",
     "Enemies/Statblock-DemonOfDespair.png",
-    "Enemies",
-    "Story",
-    "Locations/City Hall.md",
-    "Locations/The Gilded Lantern.md",
-    "Locations/Town Square.md",
-    "Mayor Elric Danton.md",
-    "Roles",
-    "Characters",
-    "Locations",
-    "Welcome.md"
+    "Enemies"
   ]
 }

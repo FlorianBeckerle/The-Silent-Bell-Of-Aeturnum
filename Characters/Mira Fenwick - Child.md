@@ -1,3 +1,4 @@
+#npc
 - **Ancestry**: Halfling (Smallfolk)  
 - **Appearance**: 9 years old, dark curly hair tied with mismatched ribbons, patched dress always dusty from play. Wears a bracelet of colored twine she swears is “magic.”  
 - **Demeanor**: Curious, fearless, often says unsettlingly wise things for her age. Laughs easily, trusts the party quickly.  

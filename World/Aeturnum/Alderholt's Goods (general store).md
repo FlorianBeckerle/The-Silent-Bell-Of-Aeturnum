@@ -1,3 +1,4 @@
+#location
 ## Common Adventuring Gear
 
 - Rope, 50 ft – 1 gp
