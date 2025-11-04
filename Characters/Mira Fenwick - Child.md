@@ -12,7 +12,7 @@
 
 # **Mystery**:
 
-- She saw a figure (the ratty NPC) scratching runes into the bell at night.
+- She saw a figure ([[Old Bram - Cryptic NPC]]) scratching runes into the bell at night.
     
 - Hints about “purple dust falling like snow” near the tower.
     

@@ -11,10 +11,14 @@
             "id": "23e72f8e7d502233",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Roles/Echobound.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Echobound"
             }
           }
         ]
@@ -153,12 +157,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Main Plot.md",
+                "file": "Story/Arc 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main Plot"
+              "title": "Arc 1"
             }
           }
         ],
@@ -166,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 917.5
+    "width": 917.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,36 +186,40 @@
   },
   "active": "23e72f8e7d502233",
   "lastOpenFiles": [
-    "Pasted image 20251026022502.png",
-    "Story/Main Plot.md",
-    "Story/Arc 1.md",
+    "World/Aeturnum/Clock Tower.md",
+    "Roles/Echobound.md",
+    "Roles/Flavor NPCs.md",
     "Roles/Core NPCs.md",
+    "Characters/Banrik Alderholt.md",
+    "Characters/First Townsfolk.md",
+    "Characters/Captain Rowan Harth.md",
+    "Characters/Mayor Elric Danton.md",
+    "Characters/Mira Fenwick - Child.md",
+    "Characters/Tomas Kettler.md",
+    "Characters/Old Bram - Cryptic NPC.md",
+    "Characters/Players/AA_Player base.md",
+    "Story/Main Plot.md",
+    "Characters/Gods/The Broken Pantheon.md",
+    "Story/Arc 1.md",
+    "Characters/Gods/Ethis, the Last Lantern.md",
+    "Characters/Gods/Kaelyth, the Riftkeeper.md",
+    "Characters/Gods/Nheras, the Hollow Bell.md",
+    "Characters/Gods/Rehr - the Veilborne.md",
+    "Characters/Gods/Saedrin, the Devourer of Light.md",
+    "Characters/Players/Eva Lastname.md",
+    "Characters/Players/Lena Lastname.md",
+    "Characters/Players/Jaci Lastname.md",
+    "Characters/Players/Ruby + Specki.md",
+    "Characters/Players/Miyu Lastname.md",
+    "Characters/Players/Rox Foolgrin.md",
+    "Enemies/Statblock-DemonOfDespair.png",
+    "Enemies/Statblock-DemonOfAvarice.png",
+    "Enemies/Skeleton Army.png",
+    "Pasted image 20251026022502.png",
     "World/Moongaze",
     "World/Untitled.canvas",
     "World",
-    "[Kaelth,.md",
-    "Kaelth,.md",
-    "Strange.md",
-    "World/Aeturnum/World.md",
-    "World/Aeturnum/Town Square.md",
-    "World/Aeturnum/The Gilded Lantern.md",
-    "World/Aeturnum/Clock Tower.md",
-    "World/Aeturnum/City Hall.md",
-    "World/Aeturnum/Alderholt's Goods (general store).md",
-    "Characters/Tomas Kettler.md",
-    "Characters/Old Bram - Cryptic NPC.md",
-    "Characters/Mira Fenwick - Child.md",
-    "Characters/Mayor Elric Danton.md",
-    "Characters/First Townsfolk.md",
-    "Characters/Captain Rowan Harth.md",
-    "Characters/Banrik Alderholt.md",
-    "Characters/Players/Rox Foolgrin.md",
-    "Characters/Players/Player base.md",
-    "Characters/Gods/Rehr - the Veilborne.md",
-    "Characters/Gods/The Broken Pantheon.md",
-    "Characters/Gods/Saedrin, the Devourer of Light.md",
     "Characters/Gods/sigils",
-    "Characters/Gods/Nheras, the Hollow Bell.md",
     "Characters/Gods",
     "Enemies/DemonPictures.png",
     "Characters/Players",
@@ -221,9 +230,6 @@
     "Characters/img/CptRowanHarth.jpg",
     "Characters/img",
     "Characters/New folder",
-    "Enemies/Skeleton Army.png",
-    "Enemies/Statblock-DemonOfAvarice.png",
-    "Enemies/Statblock-DemonOfDespair.png",
     "Enemies"
   ]
 }

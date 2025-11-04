@@ -14,8 +14,11 @@
 
 # **Mystery**:
 
-- Knows of the loops (semi-aware outsider).
+- Knows of the loops (aware outsider).
     
 - His notes contain fragments of past failed days.
     
 - Cryptically guides the party: “Break the bell or mend it.”
+     
+- Also known as Old Saer, some might call him [[Saedrin, the Devourer of Light]] 
+	- quietly watching the players witnessing unbeknownst to them the end of reality itself 

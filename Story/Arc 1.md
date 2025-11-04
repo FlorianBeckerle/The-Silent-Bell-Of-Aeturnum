@@ -56,7 +56,7 @@
         
 - **NPCs**: Each has a loop line (see below).
     
-- **Optional Puzzle**: Strange markings near bell tower. Seem decorative now, will matter later. [[Kaelth, the Riftkeeper]]
+- **Optional Puzzle**: Strange markings near bell tower. Seem decorative now, will matter later. [[Kaelyth, the Riftkeeper]]
 
 ---
 

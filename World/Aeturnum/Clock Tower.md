@@ -14,7 +14,8 @@
 - **Feature:** A pile of festival goods by the stairs. Searching reveals **corrupted crystal dust** hidden among food barrels.
     
 - **Exit:** Wooden stairs spiraling upward, part burned by black smoke.
-    
+	
+- Secret: Underneath the Stairs is a half burned Journal: [[Flavor NPCs#^sylasJournal]]
 
 ---
 

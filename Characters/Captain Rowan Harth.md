@@ -12,7 +12,7 @@
 
 # **Mystery**:
 
-- He’s noticed caravans sneaking in crystal dust but was bribed to ignore it.
+- He’s noticed crystal dust bein transferred from near the bell tower but was bribed to ignore it.
     
 - His guilt shows after probing: _“I thought it was just… powder. Didn’t think it’d kill folk.”_
     

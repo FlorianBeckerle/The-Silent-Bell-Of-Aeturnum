@@ -8,7 +8,7 @@
 
 # **Mystery**:
 
-- They worked unloading cargo from a caravan (crystal shipment).
+- They worked unloading cargo (crystal shipment).
     
 - On their body: shard of bell-crystal.
     

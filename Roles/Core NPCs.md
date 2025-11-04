@@ -5,4 +5,6 @@
 - Guard - [[Captain Rowan Harth]]
 - Cryptic - [[Old Bram - Cryptic NPC]]
 
-## [[]]
+## [[Echobound]]
+- S.T
+- L.C.
