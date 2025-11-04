@@ -38,6 +38,108 @@
 ![[Statblock-DemonOfAvarice.png]]
 ![[Statblock-DemonOfDespair.png]]
 ![[DemonPictures.png]]
+# Between the loops
+## Step-by-Step Flow of the Loop Ending
+
+### **1. The Mayor’s Speech (Tension Layering)**
+
+- Keep his tone rehearsed and polite, even as the **clock chimes**.
+    
+- Each toll should _slightly distort_ him — a twitch, a repeating word, his voice echoing wrong.
+    
+- By the final chime, the speech dissolves into static phrases (“We gather again—again—again—”) right before the horror hits.  
+    → This builds unease instead of surprise-kill energy.
+    
+
+### **2. The Mutation Scene (From Familiar to Wrong)**
+
+- Let the transformation be _instant and dreamlike_, not gory. Use imagery like:
+    
+    > “Skin folds outward like petals in reverse.”  
+    > “Eyes bloom across their faces, but none of them see you.”
+    
+- Describe the soundscape: a clock hammering _inside their skulls_, bells behind their ribs.
+    
+- Important: Don’t give them a “combat encounter.” Let them _try_ to fight — but the blows land like hitting fog, or the crowd regenerates instantly.  
+    This communicates: _This is inevitable, not a TPK._
+    
+
+### **3. The Drowning Void**
+
+- When they’re overrun, **fade into sensory descriptions**:
+    
+    - “You can’t tell if you’re falling or floating.”
+        
+    - “The bell sounds like it’s underwater.”
+        
+    - “Your own breath tastes like iron and memory.”
+        
+- No hit points, no checks — pure narrative control.
+    
+- Let everyone see a _fragment_:
+    
+    - a loved one repeating their last words,
+        
+    - the ratty NPC screaming from another timeline,
+        
+    - or the _other party’s footprints_ in sand that dissolves into stars.  
+        Each player gets a glimpse of a personal truth or echo.
+        
+
+### **4. The Pull & Awakening**
+
+- The pull should feel like **being rewound**, not resurrected:
+    
+    > “Your limbs jerk backward; the air folds like paper; the world inhales.”
+    
+- They stumble through the city gates again. The sound of the _bell_ follows them — faint, wrong, maybe even reversed.
+    
+- The **gate slams shut** — same as before — but dust falls upward, not down.
+    
+
+### **5. The Glitching Repetition**
+
+- NPCs act almost identical, but broken:
+    
+    - A baker laughs half a sentence and then starts it over.
+        
+    - A child’s balloon floats backward into their hand.
+        
+    - The mayor’s assistant is already waiting, like they _remember_ being late last time.
+        
+- Let them catch on through dialogue:
+    
+    > “Didn’t we already meet?”  
+    > “The sun feels tired today, doesn’t it?”
+    
+- Subtle. Don’t tell them it’s a loop — they’ll know.
+    
+
+## Tone Calibration
+
+If you want them **awed, not angry**, emphasize:
+
+- _Inevitability_ over _helplessness_.
+    
+- _Discovery_ over _defeat_.
+    
+- _Emotion_ over _mechanics._
+    
+
+And right after they wake, let one NPC or player find a **tiny anomaly** that proves this isn’t just a bad dream:
+
+- A **wound scar** they didn’t have.
+    
+- A **broken pocketwatch** ticking backward.
+    
+- A **half-remembered phrase** from the void.
+    
+
+That makes the players feel _curious_, not punished — they _earned_ the next mystery.
+
+---
+---
+# Conclusion
 ### **Step 1: The Moment of Break**
 
 - “The bell tolls once more — but this time, the sound doesn’t echo. It _shatters._ The air vibrates like glass cracking, and all around you the world trembles, like a painting smudging under water.”

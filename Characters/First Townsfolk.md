@@ -2,7 +2,7 @@
 # Timetable
 **Dawn**: Looks sickly, limping near market.  
 **Speech**: Present but pale, clutching chest.  
-**Noon**: Collapses in alley → first transformation.  
+**Noon**: Collapses in store → first transformation. [[Banrik Alderholt]] hides him 
 **Afternoon**: Dead/missing.  
 **Evening**: Not present (already gone).
 
